@@ -1,0 +1,11 @@
+{
+  "name": "Wyst Profile",
+  "version": "1.0.0",
+  "description": "Info Page about Wyst",
+  "author": "wyst",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "./index.html",
+    "default_icon": "./default_icon.png"
+  }
+}
